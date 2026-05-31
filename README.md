@@ -43,6 +43,3 @@ Marketing-Funnel-Analysis/
 
 └── README.md
 
-## Author
-
-Gangothri
